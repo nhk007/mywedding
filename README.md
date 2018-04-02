@@ -1,2 +1,1 @@
-# nhkwedding
-NHK REVATHI WEDDING
+# mywedding
